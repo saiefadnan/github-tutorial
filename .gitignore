@@ -282,7 +282,6 @@ dist-ssr/
 .env.backup
 
 # Django
-*.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -324,8 +323,6 @@ coverage/
 junit.xml
 test-results/
 playwright-report/
-.coverage
-htmlcov/
 
 # ============================================
 # Environment and Configuration
@@ -345,11 +342,6 @@ secrets.yml
 # ============================================
 logs/
 *.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
 *.sql
 *.sqlite
 *.db
@@ -418,12 +410,8 @@ captures/
 !**/*.xcsettings
 !**/*.xcscheme
 *.hmap
-*.ipa
 
 # Android/IntelliJ
-*.apk
-*.ap_
-*.aab
 
 # fastlane
 fastlane/report.xml
