@@ -14,6 +14,6 @@
 
 ## 7. Full end-to-end challenge: Start fresh day → sync → work on feature → get "team" update on main → resolve conflict → clean history → create PR → merge.
 
-#Final Challenge (Capstone)
+#nFinal Challenge (Capstone)
 
 ## 8. Time yourself doing a complete realistic cycle (sync → 3 commits → conflict → resolve → rebase clean → PR) — aim to get under 10 minutes with confidence.
