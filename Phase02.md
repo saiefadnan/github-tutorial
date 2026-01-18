@@ -9,8 +9,11 @@
 <img width="944" height="504" alt="image" src="https://github.com/user-attachments/assets/c547d533-d821-49ff-b699-d06f789be391" />
 
 ## 4. Simulate a full daily start: update main from remote, switch to your feature branch, update your branch with latest main.
+<img width="707" height="252" alt="image" src="https://github.com/user-attachments/assets/3a169f92-8b69-4a90-a440-c12c03b30e8c" />
+<img width="898" height="559" alt="image" src="https://github.com/user-attachments/assets/751d2b70-f37b-4724-a6be-6d499072e71c" />
 
 ## 5. Make 2–3 commits on your feature branch.
+<img width="846" height="636" alt="image" src="https://github.com/user-attachments/assets/9b171775-af84-4408-99c5-157e015fc384" />
 
 ## 6. Intentionally work on an outdated branch (skip update step), try to push → observe failure.
 
