@@ -29,5 +29,4 @@
 <img width="822" height="683" alt="image" src="https://github.com/user-attachments/assets/37c74212-d42a-4e6c-8abd-079628568153" />
 
 ### cycle 3:
-
-
+<img width="867" height="878" alt="image" src="https://github.com/user-attachments/assets/f9e42c51-7967-4cb7-9833-4248af4017e7" />
