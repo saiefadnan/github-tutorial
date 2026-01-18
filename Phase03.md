@@ -12,3 +12,10 @@
 
 ### 2. Merge the feature branch into main → handle the resulting conflict manually.
 <img width="661" height="206" alt="image" src="https://github.com/user-attachments/assets/30ca4396-9899-4224-a6fd-fbcce0a32421" />
+<img width="351" height="189" alt="image" src="https://github.com/user-attachments/assets/f39aa855-bfc7-415d-9626-8ddb53e4e715" />
+<img width="425" height="143" alt="image" src="https://github.com/user-attachments/assets/3b680749-dab1-43c5-97bd-4651d988fcf7" />
+
+###3. Abort a merge that has conflicts.
+<img width="479" height="47" alt="image" src="https://github.com/user-attachments/assets/75c4b866-84c6-4a8a-8139-55714acda838" />
+<img width="284" height="122" alt="image" src="https://github.com/user-attachments/assets/7d61bf36-0367-4c9e-b643-d6d377580e9f" />
+<img width="235" height="122" alt="image" src="https://github.com/user-attachments/assets/a7cbb8b3-7e2c-4964-b8ac-52511a8bee85" />
