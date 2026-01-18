@@ -16,10 +16,18 @@
 <img width="846" height="636" alt="image" src="https://github.com/user-attachments/assets/9b171775-af84-4408-99c5-157e015fc384" />
 
 ## 6. Intentionally work on an outdated branch (skip update step), try to push → observe failure.
+<img width="771" height="199" alt="image" src="https://github.com/user-attachments/assets/91261932-2d50-44d6-a68a-b716f12b7352" />
 
 ## 7. Fix the outdated branch so you can successfully push (use force if needed).
+<img width="822" height="571" alt="image" src="https://github.com/user-attachments/assets/f2db2622-491d-49e1-9589-cabbe095f162" />
 
 ## 8. Repeat the full sync → work → update → push cycle 3 times in a row 
+### cycle 1:
+<img width="863" height="739" alt="image" src="https://github.com/user-attachments/assets/b0f61181-02bb-4c61-b339-9eb0c4709572" />
 
+### cycle 2:
+<img width="822" height="683" alt="image" src="https://github.com/user-attachments/assets/37c74212-d42a-4e6c-8abd-079628568153" />
+
+### cycle 3:
 
 
