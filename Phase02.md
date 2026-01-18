@@ -6,6 +6,7 @@
 <img width="681" height="38" alt="image" src="https://github.com/user-attachments/assets/fe5d5a33-e73c-4b81-8b32-a97fa1fa59f9" />
 
 ## 3. Delete an old, merged branch (not the current one).
+<img width="944" height="504" alt="image" src="https://github.com/user-attachments/assets/c547d533-d821-49ff-b699-d06f789be391" />
 
 ## 4. Simulate a full daily start: update main from remote, switch to your feature branch, update your branch with latest main.
 
