@@ -21,6 +21,13 @@
 <img width="707" height="282" alt="image" src="https://github.com/user-attachments/assets/1ea26582-79ea-4c63-aa40-b70be3772469" />
 <img width="748" height="465" alt="image" src="https://github.com/user-attachments/assets/98209f7f-db56-4611-a158-2ad00e9ec68a" />
 
+<img width="748" height="465" alt="image" src="https://github.com/user-attachments/assets/386db4b3-7375-410b-8b85-c2e9cb49b1a2" />
+<img width="1178" height="846" alt="image" src="https://github.com/user-attachments/assets/2ddcf654-c48d-472f-84fa-52dfaef9d08f" />
+<img width="1113" height="747" alt="image" src="https://github.com/user-attachments/assets/e5b8f826-4f29-47f9-9c73-e7512f04727e" />
+<img width="584" height="220" alt="image" src="https://github.com/user-attachments/assets/90ce2beb-2e54-4df7-8eae-9adbafe28e34" />
+<img width="1443" height="241" alt="image" src="https://github.com/user-attachments/assets/9f89f554-f508-40de-868e-391d2673856b" />
+
+
 ## 6. Simulate a disaster: commit junk to main → recover using reset techniques.
 
 ## 7. Full end-to-end challenge: Start fresh day → sync → work on feature → get "team" update on main → resolve conflict → clean history → create PR → merge.
