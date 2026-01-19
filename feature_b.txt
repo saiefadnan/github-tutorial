@@ -1,2 +1,2 @@
 "this is feature b" 
-"some changes from branch b"
+"some changes from branch a"
