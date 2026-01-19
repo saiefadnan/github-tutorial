@@ -27,7 +27,11 @@
 <img width="742" height="389" alt="image" src="https://github.com/user-attachments/assets/0b873663-bea5-4857-8c1f-3fc81c9627c8" />
 
 ## 6. Pick one specific commit from another branch and apply it to your current branch.
+<img width="631" height="96" alt="image" src="https://github.com/user-attachments/assets/7d596657-cd6b-4413-b151-7f70513d9733" />
+<img width="694" height="612" alt="image" src="https://github.com/user-attachments/assets/dc1b10ee-5e85-4226-9559-2767b4736c26" />
 
 ## 7. Reset your branch to an earlier commit (keep changes in working directory).
+<img width="696" height="203" alt="image" src="https://github.com/user-attachments/assets/42a9d7b7-bafe-4033-b333-5bc49a2ce257" />
+<img width="891" height="159" alt="image" src="https://github.com/user-attachments/assets/2d308c4f-12a2-48a1-8968-26d46f0d15e5" />
 
 ## 8. Reset your branch to an earlier commit and discard all later changes completely
