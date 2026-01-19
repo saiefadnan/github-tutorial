@@ -35,3 +35,5 @@
 <img width="891" height="159" alt="image" src="https://github.com/user-attachments/assets/2d308c4f-12a2-48a1-8968-26d46f0d15e5" />
 
 ## 8. Reset your branch to an earlier commit and discard all later changes completely
+<img width="880" height="279" alt="image" src="https://github.com/user-attachments/assets/ed44f23d-7aff-4d1d-8ec2-d3903abec751" />
+
