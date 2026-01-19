@@ -74,7 +74,3 @@
 ### PR for branch-a
 
 <img width="980" height="649" alt="image" src="https://github.com/user-attachments/assets/ba87a482-eeaf-4a9c-b851-e9a4446003dd" />
-
-# Final Challenge (Capstone)
-
-## 8. Time yourself doing a complete realistic cycle (sync → 3 commits → conflict → resolve → rebase clean → PR) — aim to get under 10 minutes with confidence.
