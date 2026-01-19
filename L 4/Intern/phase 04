@@ -1,0 +1,16 @@
+Phase 4: Recovery & History Cleanup
+Accidentally commit changes to the wrong branch → move those changes to the correct branch.
+
+Amend the very last commit (add forgotten change + fix message).
+
+Undo the last commit but keep the changes in working directory/staged area.
+
+Completely undo and discard the last commit + changes.
+
+Create a branch with 5 small, related commits → use interactive rebase to squash them into 2–3 cleaner commits.
+
+Pick one specific commit from another branch and apply it to your current branch.
+
+Reset your branch to an earlier commit (keep changes in working directory).
+
+Reset your branch to an earlier commit and discard all later changes completely.
