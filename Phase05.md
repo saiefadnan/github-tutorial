@@ -49,6 +49,8 @@
 <img width="766" height="992" alt="image" src="https://github.com/user-attachments/assets/961efbd4-d1d6-44e5-abb9-9a85ead93e54" />
 <img width="881" height="892" alt="image" src="https://github.com/user-attachments/assets/6f3885fd-8302-444c-ba2c-3a829201be73" />
 
+### PR for branch-b
+
 <img width="992" height="726" alt="image" src="https://github.com/user-attachments/assets/9ed92fd8-ff56-4a11-a613-6d514b676ddb" />
 
 ### Conflict occured: 
@@ -69,6 +71,9 @@
 
 <img width="382" height="111" alt="image" src="https://github.com/user-attachments/assets/846e90af-31e5-4b72-b193-a391704ede80" />
 
+### PR for branch-a
+
+<img width="980" height="649" alt="image" src="https://github.com/user-attachments/assets/ba87a482-eeaf-4a9c-b851-e9a4446003dd" />
 
 # Final Challenge (Capstone)
 
