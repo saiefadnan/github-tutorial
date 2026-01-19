@@ -22,7 +22,9 @@
 <img width="571" height="317" alt="image" src="https://github.com/user-attachments/assets/5230405b-a488-4ae2-8e77-f68d031b76a7" />
 
 ## 5. Create a branch with 5 small, related commits → use interactive rebase to squash them into 2–3 cleaner commits.
-
+<img width="623" height="1017" alt="image" src="https://github.com/user-attachments/assets/3ec828f1-19d5-44e0-af1b-9fe760dfa7bb" />
+<img width="269" height="190" alt="image" src="https://github.com/user-attachments/assets/e1f3a5c8-7cf0-4b63-9adc-f598f94f0ed8" />
+<img width="742" height="389" alt="image" src="https://github.com/user-attachments/assets/0b873663-bea5-4857-8c1f-3fc81c9627c8" />
 
 ## 6. Pick one specific commit from another branch and apply it to your current branch.
 
