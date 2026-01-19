@@ -11,7 +11,8 @@ int32_t main()
     for (int i = 0; i < n; i++)
     {
         int x, count=0;
-        int y;
+        int y,m,n,o;
+        int change;
         cin >> x;
 
         for (int j = 1; j * j <= x; j++)
