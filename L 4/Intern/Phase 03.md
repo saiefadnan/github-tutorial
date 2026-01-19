@@ -31,6 +31,8 @@ Abort a merge that has conflicts.
             Successfully rebased and updated refs/heads/feature-rebase.
             (.venv) 
 
+            vim terminal asle --->  esc -> :wq -> enter
+
 Set up another conflict scenario, then rebase the feature branch onto main instead → resolve conflict during rebase.
 
 <img width="1108" height="442" alt="image" src="https://github.com/user-attachments/assets/2c826eb3-dac2-401d-b662-0eff1077ba67" />
