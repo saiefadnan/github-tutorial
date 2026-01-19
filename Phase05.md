@@ -50,11 +50,23 @@
 <img width="881" height="892" alt="image" src="https://github.com/user-attachments/assets/6f3885fd-8302-444c-ba2c-3a829201be73" />
 
 <img width="992" height="726" alt="image" src="https://github.com/user-attachments/assets/9ed92fd8-ff56-4a11-a613-6d514b676ddb" />
+
+### Conflict occured: 
+
 <img width="364" height="163" alt="image" src="https://github.com/user-attachments/assets/8caf54b8-b4e0-4a31-854a-8739da6af534" />
+
+### Conflict resolved:
+
 <img width="352" height="139" alt="image" src="https://github.com/user-attachments/assets/8ae6c1ac-8cef-4feb-90b7-1839011a7737" />
 <br/>
+
+### Before squashing commits:
+
 <img width="390" height="95" alt="image" src="https://github.com/user-attachments/assets/5a9d0671-79af-4c4f-91bf-90bfdc134be3" />
 <br/>
+
+### After squashing commits:
+
 <img width="382" height="111" alt="image" src="https://github.com/user-attachments/assets/846e90af-31e5-4b72-b193-a391704ede80" />
 
 
