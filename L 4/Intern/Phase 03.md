@@ -10,6 +10,27 @@ Abort a merge that has conflicts.
 <img width="777" height="265" alt="image" src="https://github.com/user-attachments/assets/4385f62e-0311-4b32-9ea1-3486bb29f81c" />
 <img width="1083" height="382" alt="image" src="https://github.com/user-attachments/assets/1c475f77-4a94-4e95-b323-42e9c96ffb93" />
 
+
+
+            (If need to edit for keeping main branch code or local branch code)
+            $ git merge feature-A
+            Auto-merging L 4/Intern/conflict.txt
+            CONFLICT (content): Merge conflict in L 4/Intern/conflict.txt
+            Automatic merge failed; fix conflicts and then commit the result.
+            (.venv) 
+            User@LAPTOP-4MIGM0J8 MINGW64 /d/coding/L 4/Intern (feature-rebase|REBASE 2/2)
+            $ git merge --abort
+            (.venv) 
+            User@LAPTOP-4MIGM0J8 MINGW64 /d/coding/L 4/Intern (feature-rebase|REBASE 2/2)
+            $ git add "L 4/Intern/conflict.txt"
+            warning: could not open directory 'L 4/Intern/L 4/Intern/': No such file or directory
+            fatal: pathspec 'L 4/Intern/conflict.txt' did not match any files
+            (.venv) 
+            User@LAPTOP-4MIGM0J8 MINGW64 /d/coding/L 4/Intern (feature-rebase|REBASE 2/2)
+            $ git rebase --continue
+            Successfully rebased and updated refs/heads/feature-rebase.
+            (.venv) 
+
 Set up another conflict scenario, then rebase the feature branch onto main instead → resolve conflict during rebase.
 
 <img width="1108" height="442" alt="image" src="https://github.com/user-attachments/assets/2c826eb3-dac2-401d-b662-0eff1077ba67" />
