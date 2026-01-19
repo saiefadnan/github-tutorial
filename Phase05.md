@@ -10,6 +10,9 @@
 <img width="753" height="420" alt="image" src="https://github.com/user-attachments/assets/5200e02a-c268-494b-a604-bc0d4340b312" />
 
 ## 4. Create a pull request from one feature branch to main on GitHub → merge it through the web interface.
+<img width="628" height="417" alt="image" src="https://github.com/user-attachments/assets/0a2bc686-5a64-429c-b65a-1a3b4723776d" />
+<img width="887" height="702" alt="image" src="https://github.com/user-attachments/assets/8b3fc235-590e-4bac-bd2f-fc6be9142a47" />
+<img width="938" height="618" alt="image" src="https://github.com/user-attachments/assets/77d5ce74-b367-4d41-a31a-e0dbd430e244" />
 
 ## 5. Resolve a small conflict directly in the GitHub pull request interface.
 
