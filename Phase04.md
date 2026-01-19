@@ -16,10 +16,13 @@
 <img width="732" height="334" alt="image" src="https://github.com/user-attachments/assets/f2648a2f-ab9c-4472-b58c-48ce6d2a22c2" />
 
 ## 3. Undo the last commit but keep the changes in working directory/staged area.
+<img width="564" height="251" alt="image" src="https://github.com/user-attachments/assets/2780a9f7-d0d0-46cf-a3a5-6a046aaa401e" />
 
 ## 4. Completely undo and discard the last commit + changes.
+<img width="571" height="317" alt="image" src="https://github.com/user-attachments/assets/5230405b-a488-4ae2-8e77-f68d031b76a7" />
 
 ## 5. Create a branch with 5 small, related commits → use interactive rebase to squash them into 2–3 cleaner commits.
+
 
 ## 6. Pick one specific commit from another branch and apply it to your current branch.
 
