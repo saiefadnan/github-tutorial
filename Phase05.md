@@ -44,6 +44,16 @@
 <img width="812" height="215" alt="image" src="https://github.com/user-attachments/assets/4a504d5b-7991-4763-abf9-f33a0a782782" />
 
 ## 7. Full end-to-end challenge: Start fresh day → sync → work on feature → get "team" update on main → resolve conflict → clean history → create PR → merge.
+<img width="744" height="973" alt="image" src="https://github.com/user-attachments/assets/d15a4023-fb3a-4379-a4c2-0f68e72fd8be" />
+<img width="795" height="982" alt="image" src="https://github.com/user-attachments/assets/cb1f2bad-7f14-4cf8-82a1-996f726d084c" />
+<img width="766" height="992" alt="image" src="https://github.com/user-attachments/assets/961efbd4-d1d6-44e5-abb9-9a85ead93e54" />
+<img width="881" height="892" alt="image" src="https://github.com/user-attachments/assets/6f3885fd-8302-444c-ba2c-3a829201be73" />
+
+<img width="992" height="726" alt="image" src="https://github.com/user-attachments/assets/9ed92fd8-ff56-4a11-a613-6d514b676ddb" />
+<img width="364" height="163" alt="image" src="https://github.com/user-attachments/assets/8caf54b8-b4e0-4a31-854a-8739da6af534" />
+<img width="390" height="95" alt="image" src="https://github.com/user-attachments/assets/5a9d0671-79af-4c4f-91bf-90bfdc134be3" />
+<img width="382" height="111" alt="image" src="https://github.com/user-attachments/assets/846e90af-31e5-4b72-b193-a391704ede80" />
+
 
 # Final Challenge (Capstone)
 
