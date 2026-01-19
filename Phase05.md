@@ -15,8 +15,11 @@
 <img width="938" height="618" alt="image" src="https://github.com/user-attachments/assets/77d5ce74-b367-4d41-a31a-e0dbd430e244" />
 
 ## 5. Resolve a small conflict directly in the GitHub pull request interface.
-<img width="463" height="166" alt="image" src="https://github.com/user-attachments/assets/25cf545a-3cf4-4545-98ce-182637b3a9b9" />
-<img width="467" height="141" alt="image" src="https://github.com/user-attachments/assets/f130c92f-73bc-48ec-a9bd-292aa16a461a" />
+<img width="316" height="115" alt="image" src="https://github.com/user-attachments/assets/615852f3-79cc-4c38-b3cc-fdd6729d683c" />
+<img width="313" height="123" alt="image" src="https://github.com/user-attachments/assets/dffd87a4-10f7-4bfa-826c-c52cb3d25329" />
+<img width="745" height="365" alt="image" src="https://github.com/user-attachments/assets/f86854cb-b54a-430c-beb4-4eb17081ac0f" />
+<img width="707" height="282" alt="image" src="https://github.com/user-attachments/assets/1ea26582-79ea-4c63-aa40-b70be3772469" />
+<img width="748" height="465" alt="image" src="https://github.com/user-attachments/assets/98209f7f-db56-4611-a158-2ad00e9ec68a" />
 
 ## 6. Simulate a disaster: commit junk to main → recover using reset techniques.
 
