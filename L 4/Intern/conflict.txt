@@ -1,1 +1,2 @@
 Conflict line from Main
+Main branch text
