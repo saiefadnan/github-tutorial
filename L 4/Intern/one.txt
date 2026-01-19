@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
+#define int long long
 
-int main()
+int32_t main()
 {
     int n;
     int x, y, z;
@@ -9,10 +10,10 @@ int main()
 
     for (int i = 0; i < n; i++)
     {
-        int x;
+        int x, count=0;
+        int y;
         cin >> x;
 
-        int count = 0;
         for (int j = 1; j * j <= x; j++)
         {
             if (x % j == 0)
