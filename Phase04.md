@@ -8,8 +8,9 @@
 <img width="530" height="115" alt="image" src="https://github.com/user-attachments/assets/305c80fe-4164-445e-a909-8fc808648a98" />
 <img width="779" height="331" alt="image" src="https://github.com/user-attachments/assets/5c332e88-7deb-4094-977d-db4e634b893f" />
 
-
 ## 2. Amend the very last commit (add forgotten change + fix message).
+<img width="436" height="124" alt="image" src="https://github.com/user-attachments/assets/7bd25186-9aa5-4fb4-9f75-b56d20c20005" />
+
 
 ## 3. Undo the last commit but keep the changes in working directory/staged area.
 
