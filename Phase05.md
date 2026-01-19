@@ -30,11 +30,11 @@
 
 ## 6. Simulate a disaster: commit junk to main → recover using reset techniques.
 <img width="823" height="282" alt="image" src="https://github.com/user-attachments/assets/449bf554-a4a3-47b9-9a5f-5f7ef38ba4fe" />
-### delete commit + changes
+### delete commit and changes
 <img width="612" height="50" alt="image" src="https://github.com/user-attachments/assets/8cfa46c7-c622-407f-bec6-a64c2cd0c9ff" />
-### delete commit + staged changes
+### delete commit and keep staged changes
 <img width="578" height="71" alt="image" src="https://github.com/user-attachments/assets/7ad144c8-3ac1-40b2-bc82-2676253ec7f7" />
-### delete commit + unstaged changes
+### delete commit and keep unstaged changes
 <img width="812" height="215" alt="image" src="https://github.com/user-attachments/assets/4a504d5b-7991-4763-abf9-f33a0a782782" />
 
 ## 7. Full end-to-end challenge: Start fresh day → sync → work on feature → get "team" update on main → resolve conflict → clean history → create PR → merge.
